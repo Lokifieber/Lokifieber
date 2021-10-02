@@ -13,8 +13,8 @@ ____________
 📫 SOCIAL
 ____________
 How to reach me:
-E-Mail: loki.fieber@gmx.de
-Teamspeak: Samurai-of-Renegade.de or Discord: Lokifieber#0327
+E-Mail: Lokifieber@lokifieber.eu
+Discord: Lokifieber#0327
 
 And Have nice Day :P
 
