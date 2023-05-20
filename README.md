@@ -7,8 +7,7 @@ Hi 👋 My name is Lokifiber / Ivan
 -----------------------------------
 
 * 🌍  I'm based in Germany Frankfurt am Main
-* 🖥️  See my portfolio at [Click me :P](http://https://ivan.lokifieber.eu/)
-* ✉️  You can contact me at [ivan.iskorenko@lokifieber.eu](mailto:ivan.iskorenko@lokifieber.eu)
+* ✉️  You can contact me at [loki.fieber@gmx.de](loki.fieber@gmx.de)
 * 🧠  I'm learning python
 * ⚡  Language: German, English and Russian too.
 
